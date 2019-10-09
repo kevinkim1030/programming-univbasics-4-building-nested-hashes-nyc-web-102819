@@ -18,7 +18,8 @@ def monopoly_with_third_tier
     names: {
       key5: " ",
       key6: " ",
-      key7: " "
+      key7: " ",
+      key8: " "
     }
     rent_in_dollars: {
       key1: " ",
