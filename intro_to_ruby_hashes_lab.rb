@@ -8,7 +8,7 @@ end
 
 def monopoly_with_second_tier 
 	{railroads: 
-	  {pieces: "yea"}
+	  {pieces: 4}
 	}
 end
 
