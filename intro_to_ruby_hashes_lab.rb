@@ -15,7 +15,7 @@ end
 
 def monopoly_with_third_tier
   {railroads: {
-    rent_in_dollars: "truthy"
+    rent_in_dollars: 
     }
   }
 end
