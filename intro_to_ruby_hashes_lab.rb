@@ -16,10 +16,10 @@ end
 def monopoly_with_third_tier
   {railroads: {
     rent_in_dollars: {
-      key1:
-      key2:
-      key3:
-      key4:
+      key1: " ",
+      key2: " ",
+      key3: " ",
+      key4: " "
     }
     }
   }
